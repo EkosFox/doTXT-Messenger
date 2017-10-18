@@ -18,3 +18,15 @@ Enter the name of the room (without extension ".txt") on the box and press "join
 
 
 Designed, programmed and distributed by EkosFox! 8)
+
+
+Developer Words:
+Well, I made this project when some friends in my Computer Science class where things about doing the same but on terminal, 
+which is an horrible idea because on terminal the input and print of data couldn't happen. 
+Then I decided to do it but in tkinter (with implementation of pygame).
+Because not all the computers in my school have python, I decided to copy mine that was on USB flash drive to the Shared folder on school. 
+Minutes later my account was blocked LMFAO. Fortunately my account was unblocked after explaining the facts to the Technicians Team. 
+Sadly they didn't allowed the development of any kind of messenger programs.      ¯\_(ツ)_/¯     ¯\_(ツ)_/¯
+I wasn't planning to make it open source so soon, but I have no reason to developing it as no one is gonna use it.
+Have fun using it, just don't get into trouble like I did xD.
+EkosFox
