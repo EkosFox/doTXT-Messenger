@@ -1,4 +1,4 @@
-﻿TKINTER IS NEEDED !
+TKINTER IS NEEDED !
 
 To use doTXT PyMessenger you need to modify the conf.py file to set
 the rooms' location and your username. Then simply run dotxt.pyw
@@ -15,9 +15,6 @@ Enter the name of the room (without extension ".txt") on the box and press "join
 3. Auto-update (That will save your time!)
 4. Multiple chats at same time (Difficult -_-' , but I will work that out!)
 5. Play sound when new messages arrive and your focus isn't on the window (Easy, uses Pygame though. Need to update Python in this folder...)
-
-ANY BUGS YOU IDENTIFY YOU CAN PUT ON "bugReport.txt" AND SUGGESTION 
-ON "suggestions.txt" LOCALISED ON THAT FOLDER!
 
 
 Designed, programmed and distributed by EkosFox! 8)
